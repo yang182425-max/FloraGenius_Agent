@@ -1,4 +1,3 @@
-# FloraGenius_Agent
 # FloraGenius 自动化代码包
 
 这是一套针对观赏植物高通量 3D 表型解析的独立代码。可以完美对接下游的遗传分析管道。
